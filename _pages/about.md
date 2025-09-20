@@ -8,14 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.comment{
+    background: white;
+    color: #BD2A2E;
+    font-size: 12px;
+    padding: 1px 5px 1px 5px;
+    border-radius: 0px;
+    float: left;
+    font-weight: bold;
+}
+</style>
+
+<span class='anchor' id='about-me'></span>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
 
 I am currently a first-year Ph.D. student in the School of Computer Science at Shanghai Jiao Tong University, advised by [Prof. Jingwen Leng](https://www.cs.sjtu.edu.cn/~leng-jw/). I received the B.Eng. degree in Computer Science and Technology (IEEE Pilot Class) from SJTU.
 
