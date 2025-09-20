@@ -40,7 +40,6 @@ My research interests include machine learning compilers and high-performance co
 - *2025.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2025.
 
 # 📝 Publications 
-
 - ``NeurIPS 2025`` **Xinhao Luo**, Zihan Liu, Yangjie Zhou, Shihan Fang, Ziyu Huang, Yu Feng, Chen Zhang, Shixuan Sun, Zhenzhe Zheng, Jingwen Leng, Minyi Guo; [ClusterFusion: Expanding Operator Fusion Scope for LLM Inference via Cluster-Level Collective Primitive](https://arxiv.org/pdf/2508.18850).
 [![](https://img.shields.io/github/stars/xinhao-luo/ClusterFusion?style=social&label=Code+Stars)](https://github.com/xinhao-luo/ClusterFusion)
 - ``HPCA 2025`` Zihan Liu, **Xinhao Luo**, Junxian Guo, Wentao Ni, Yangjie Zhou, Yue Guan, Cong Guo, Weihao Cui, Yu Feng, Minyi Guo, Yuhao Zhu, Minjia Zhang, Jingwen Leng, Chen Jin; [VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10946800).
