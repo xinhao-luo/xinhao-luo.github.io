@@ -9,16 +9,17 @@ redirect_from:
 ---
 
 <style>
-.comment{
-    background: white;
-    color: #BD2A2E;
-    font-size: 12px;
-    padding: 1px 5px 1px 5px;
-    border-radius: 0px;
-    float: left;
-    font-weight: bold;
-}
+  .conference-badge {
+      background: #1f77b4;      /* 蓝色背景 */
+      color: white;             /* 白色文字 */
+      font-size: 12px;          /* 字体大小 */
+      padding: 2px 6px;         /* 内边距，上下2px，左右6px */
+      border-radius: 4px;       /* 圆角 */
+      font-weight: bold;        /* 加粗 */
+      display: inline-block;    /* 行内块，方便排版 */
+  }
 </style>
+
 
 <span class='anchor' id='about-me'></span>
 
@@ -40,9 +41,10 @@ My research interests include machine learning compilers and high-performance co
 - *2025.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2025.
 
 # 📝 Publications 
-- ``NeurIPS 2025`` **Xinhao Luo**, Zihan Liu, Yangjie Zhou, Shihan Fang, Ziyu Huang, Yu Feng, Chen Zhang, Shixuan Sun, Zhenzhe Zheng, Jingwen Leng, Minyi Guo; [ClusterFusion: Expanding Operator Fusion Scope for LLM Inference via Cluster-Level Collective Primitive](https://arxiv.org/pdf/2508.18850).
+
+- <span class="conference-badge">NeurIPS 2025</span> **Xinhao Luo**, Zihan Liu, Yangjie Zhou, Shihan Fang, Ziyu Huang, Yu Feng, Chen Zhang, Shixuan Sun, Zhenzhe Zheng, Jingwen Leng, Minyi Guo; [ClusterFusion: Expanding Operator Fusion Scope for LLM Inference via Cluster-Level Collective Primitive](https://arxiv.org/pdf/2508.18850).
 [![](https://img.shields.io/github/stars/xinhao-luo/ClusterFusion?style=social&label=Code+Stars)](https://github.com/xinhao-luo/ClusterFusion)
-- ``HPCA 2025`` Zihan Liu, **Xinhao Luo**, Junxian Guo, Wentao Ni, Yangjie Zhou, Yue Guan, Cong Guo, Weihao Cui, Yu Feng, Minyi Guo, Yuhao Zhu, Minjia Zhang, Jingwen Leng, Chen Jin; [VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10946800).
+- <span class="conference-badge">HPCA 2025</span> Zihan Liu, **Xinhao Luo**, Junxian Guo, Wentao Ni, Yangjie Zhou, Yue Guan, Cong Guo, Weihao Cui, Yu Feng, Minyi Guo, Yuhao Zhu, Minjia Zhang, Jingwen Leng, Chen Jin; [VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10946800).
 
 # 🎖 Honors and Awards
 - *2025.06* SJTU Zhiyuan Honor Bachelor's Degree.
@@ -51,8 +53,8 @@ My research interests include machine learning compilers and high-performance co
 - *2024.03* SJTU Outstanding Undergraduate Scholarship of Class ’88 Alumni, Department of Computer Science.
 
 # 📖 Educations
-- *2025.09 - now*, Ph.D. Student in Computer Science, School of Computer Science, Shanghai Jiao Tong University.
-- *2021.09 - 2025.06*, B.S. in Computer Science, School of Computer Science, Shanghai Jiao Tong University.
+- *2025.09 - now*, Ph.D. Student in Computer Science and Technology, School of Computer Science, Shanghai Jiao Tong University.
+- *2021.09 - 2025.06*, B.S. in Computer Science and Technology (IEEE), School of Computer Science, Shanghai Jiao Tong University.
 
 # 💻 Internships
 - *2024.11 - now*, Research intern, Shanghai Qi Zhi Institute.
