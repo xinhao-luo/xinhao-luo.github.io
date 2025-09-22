@@ -30,7 +30,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I am currently a first-year Ph.D. student in the School of Computer Science at Shanghai Jiao Tong University, advised by [Prof. Jingwen Leng](https://www.cs.sjtu.edu.cn/~leng-jw/). I received the B.Eng. degree in Computer Science and Technology (IEEE Pilot Class) from SJTU.
+I am currently a first-year Ph.D. student in the School of Computer Science at Shanghai Jiao Tong University, advised by [Prof. Jingwen Leng](https://www.cs.sjtu.edu.cn/~leng-jw/), and working with [Dr. Zihan Liu](https://subjectnoi.github.io/about/) and [Dr. Yangjie Zhou](https://iquitap.github.io/). I received the B.Eng. degree in Computer Science and Technology (IEEE Pilot Class) from SJTU.
 
 My research interests include machine learning compilers and high-performance computing. 
 
